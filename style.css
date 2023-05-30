@@ -16,7 +16,7 @@ body {
 }
 
 .pnlTop{
-    background-color:rgb(33, 10, 136);
+    background-color:rgba(5, 2, 15, 0.582);
 }
 
 
@@ -29,7 +29,7 @@ body {
 .section {
     width: 100%;
     text-align: center;
-    background-color:rgb(33, 10, 136);
+    background-color:rgba(5, 2, 15, 0.582);
 }
 
 
